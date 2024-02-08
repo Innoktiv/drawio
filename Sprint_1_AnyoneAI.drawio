@@ -1,23 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2024-02-08T07:32:13.456Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="apOvroiw-wuMogZgn36x" version="23.1.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-08T07:37:55.114Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="KoAE6lptclWNgWJCNY2B" version="23.1.2" type="github">
   <diagram name="Page-1" id="U13R7Wm6EYD1qB2DaHe_">
-    <mxGraphModel dx="644" dy="302" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8000" pageHeight="8000" math="0" shadow="0">
+    <mxGraphModel dx="1674" dy="786" grid="1" gridSize="8" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="8000" pageHeight="8000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="s0ZOie93lQ0Ljgx1va_m-1" value=".apply()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="100" y="176" width="64" height="32" as="geometry" />
+          <mxGeometry x="240" y="128" width="64" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="s0ZOie93lQ0Ljgx1va_m-2" value="Advance f(x)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="96" y="128" width="120" height="32" as="geometry" />
+        <mxCell id="9Z24KjF8AyinNiPs9Rzn-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="s0ZOie93lQ0Ljgx1va_m-3" target="s0ZOie93lQ0Ljgx1va_m-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Z24KjF8AyinNiPs9Rzn-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="s0ZOie93lQ0Ljgx1va_m-3" target="s0ZOie93lQ0Ljgx1va_m-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s0ZOie93lQ0Ljgx1va_m-3" value="Basic f(x)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
           <mxGeometry x="24" y="24" width="120" height="32" as="geometry" />
         </mxCell>
         <mxCell id="s0ZOie93lQ0Ljgx1va_m-4" value=".sum()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="160" y="32" width="56" height="32" as="geometry" />
+          <mxGeometry x="240" y="32" width="56" height="32" as="geometry" />
         </mxCell>
         <mxCell id="s0ZOie93lQ0Ljgx1va_m-5" value=".groupby()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="160" y="72" width="72" height="32" as="geometry" />
+          <mxGeometry x="244" y="56" width="72" height="32" as="geometry" />
         </mxCell>
         <mxCell id="s0ZOie93lQ0Ljgx1va_m-6" value="df.to_csv(&quot;foo.csv&quot;)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontFamily=Architects Daughter;" parent="1" vertex="1">
           <mxGeometry x="96" y="488" width="208" height="48" as="geometry" />
@@ -43,10 +46,10 @@
           <mxGeometry x="100" y="456" width="216" height="48" as="geometry" />
         </mxCell>
         <mxCell id="s0ZOie93lQ0Ljgx1va_m-14" value="Functions??" style="rounded=1;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" parent="1" vertex="1">
-          <mxGeometry x="8" y="396" width="120" height="60" as="geometry" />
+          <mxGeometry x="8" y="392" width="184" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s0ZOie93lQ0Ljgx1va_m-15" value=".info()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rounded=0;sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-          <mxGeometry x="163" width="48" height="32" as="geometry" />
+          <mxGeometry x="244" width="48" height="32" as="geometry" />
         </mxCell>
         <mxCell id="s0ZOie93lQ0Ljgx1va_m-16" value="Iterate over Pandas Data Frame" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=20;fontFamily=Helvetica;shadow=1;rounded=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="28" y="620" width="304" height="48" as="geometry" />
@@ -61,10 +64,25 @@
           <mxGeometry x="616" y="176" width="530" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9Z24KjF8AyinNiPs9Rzn-1" value="SQLAlquemy&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="368" y="840" width="144" height="48" as="geometry" />
+          <mxGeometry x="304" y="772" width="144" height="48" as="geometry" />
         </mxCell>
         <mxCell id="9Z24KjF8AyinNiPs9Rzn-2" value="SQLAlquemy" style="rounded=0;whiteSpace=wrap;html=1;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="152" y="840" width="176" height="60" as="geometry" />
+          <mxGeometry x="16" y="760" width="176" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9Z24KjF8AyinNiPs9Rzn-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.03;entryY=0.68;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="s0ZOie93lQ0Ljgx1va_m-3" target="s0ZOie93lQ0Ljgx1va_m-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Z24KjF8AyinNiPs9Rzn-6" value="Advance f(x)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="1">
+          <mxGeometry x="24" y="120" width="120" height="32" as="geometry" />
+        </mxCell>
+        <mxCell id="9Z24KjF8AyinNiPs9Rzn-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.063;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1" source="9Z24KjF8AyinNiPs9Rzn-6" target="s0ZOie93lQ0Ljgx1va_m-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9Z24KjF8AyinNiPs9Rzn-8" value="" style="endArrow=none;html=1;rounded=0;sketch=1;hachureGap=4;jiggle=2;curveFitting=1;fontFamily=Architects Daughter;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DArchitects%2BDaughter;fontSize=16;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="416" y="560" as="sourcePoint" />
+            <mxPoint x="416" y="416" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
